@@ -1,0 +1,5 @@
+interface:
+  display_name: "STE"
+  short_description: "Write in ASD-STE100 Simplified Technical English"
+policy:
+  allow_implicit_invocation: false

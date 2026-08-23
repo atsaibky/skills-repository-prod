@@ -1,0 +1,3 @@
+interface:
+  display_name: "Writing For Humans"
+  short_description: "Strip the tells that mark writing as AI-generated"
